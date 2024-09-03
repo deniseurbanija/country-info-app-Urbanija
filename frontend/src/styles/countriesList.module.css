@@ -1,0 +1,33 @@
+.container {
+    padding: 20px;
+    background-color: #f4f4f4;
+  }
+  
+  .header {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .countryList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .countryItem {
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .countryLink {
+    text-decoration: none;
+    color: green;
+  }
+  
+  .countryLink:hover {
+    text-decoration: underline;
+  }
+  
